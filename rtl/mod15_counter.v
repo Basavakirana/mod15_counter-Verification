@@ -15,4 +15,5 @@ begin
         else
                 data_out<=data_out -1'b1;
 end
+end
 endmodule
